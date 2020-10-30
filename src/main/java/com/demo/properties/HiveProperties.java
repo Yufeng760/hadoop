@@ -3,7 +3,7 @@ package com.demo.properties;
 /**
  * @ClassName: HiveProperties
  * @Author: djsoft wpf
- * @Description: HiveProperties，连接hive数据库的基本参数
+ * @Description: HiveProperties，连接hive数据库的基本参数，根据自己的实际配置进行替换
  * @Date: 2020/10/30 13:01
  */
 public class HiveProperties {
